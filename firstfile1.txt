@@ -1,2 +1,4 @@
 Welcome to AIOps Foundations Training!!!
 We will cover using AI in Development.
+
+By Badri Narayanan Krishnamoorthy.
